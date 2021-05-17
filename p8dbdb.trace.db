@@ -1,0 +1,12 @@
+2021-05-07 16:19:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "users" не найдена
+Table "users" not found; SQL statement:
+INSERT INTO"users"VALUES(DEFAULT ,?) [42102-197]
+2021-05-07 16:19:49 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "users" не найдена
+Table "users" not found; SQL statement:
+INSERT INTO"users"VALUES(DEFAULT ,?) [42102-197]
+2021-05-07 16:19:49 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "users" не найдена
+Table "users" not found; SQL statement:
+SELECT * FROM"users" [42102-197]
